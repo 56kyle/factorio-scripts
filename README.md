@@ -8,6 +8,9 @@ A collection of Factorio Lua scripts that are useful.
 - [Overview](#Overview)
 - [Scripts](#Scripts)
   - [export_hotbars](#export_hotbars)
+  - [import_hotbars](#import_hotbars)
+  - [get_item_ids](#get_item_ids)
+  - [get_item_stack_sizes](#get_item_s)
 
 --------------------
 

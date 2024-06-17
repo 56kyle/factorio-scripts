@@ -46,4 +46,4 @@ Each item should have a unique identifier.
 
 
 ### get_item_stack_sizes
-Returns a set of combinators containing each item as a signal that has its stack size as a value.
+Creates a set of ConstantCombinators that have each item with its corresponding stack size as a value.
